@@ -9,7 +9,7 @@ The repository contains scripts that need to be run in the specified order due t
 
 ## Datasets
 
-`Sample_sedkgraph.csv` provides a sample of the constructed knowledge graph. The full SED-KGraph dataset will be shared uppon paper acceptance.
+`sample_sedkgraph.csv` provides a sample of the constructed knowledge graph. The full SED-KGraph dataset is presented in the file `sedkgraph.xlsx`.
 
 The projects' information dataset are adopted from the following study</a>.
 
